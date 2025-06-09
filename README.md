@@ -1,6 +1,7 @@
 # Hotel Booking Customer Segmentation 📊🏨
 
-Welcome to the **Hotel Booking Customer Segmentation** project! 🎉 This project uses the **K-Means clustering** algorithm to segment hotel guests based on key features such as **lead time**, **average daily rate (adr)**, **total stay**, and **market segment**. 
+Welcome to the **Hotel Booking Customer Segmentation** project! 🎉 
+This project uses the **K-Means clustering** algorithm to segment hotel guests based on key features such as **lead time**, **average daily rate (adr)**, **total stay**, and **market segment**. 
 
 ## 🔍 What’s Inside:
 - **Exploratory Data Analysis (EDA)**: Discover the key patterns and insights within the hotel booking dataset.
